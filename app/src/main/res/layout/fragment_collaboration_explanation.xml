@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textTeachingExplanationHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="29dp"
+            android:layout_marginRight="29dp"
+            android:layout_marginTop="25dp"
+            android:padding="10dp"
+            android:text="@string/teaching_explanation_header"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#B71C1C"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textTeachingExplanationHeader"
+            android:layout_alignRight="@+id/textTeachingExplanationHeader"
+            android:layout_below="@+id/textTeachingExplanationHeader"
+            android:layout_marginTop="35dp"
+            android:padding="10dp"
+            android:src="@drawable/tik" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView"
+            android:layout_marginEnd="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp"
+            android:layout_toLeftOf="@+id/imageView"
+            android:padding="10dp"
+            android:text="@string/rule_1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView"
+            android:layout_alignRight="@+id/imageView"
+            android:layout_below="@+id/textView"
+            android:layout_marginTop="35dp"
+            android:padding="10dp"
+            android:src="@drawable/tik" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView"
+            android:layout_alignRight="@+id/textView"
+            android:layout_alignTop="@+id/imageView15"
+            android:layout_marginLeft="20dp"
+            android:padding="10dp"
+            android:text="@string/rule_2"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView15"
+            android:layout_alignRight="@+id/imageView15"
+            android:layout_below="@+id/textView15"
+            android:layout_marginTop="35dp"
+            android:padding="10dp"
+            android:src="@drawable/tik" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView15"
+            android:layout_alignRight="@+id/textView15"
+            android:layout_alignTop="@+id/imageView2"
+            android:layout_marginLeft="20dp"
+            android:padding="10dp"
+            android:text="@string/rule_collaboration_3"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView2"
+            android:layout_alignRight="@+id/imageView2"
+            android:layout_below="@+id/textView2"
+            android:layout_marginTop="35dp"
+            android:padding="10dp"
+            android:src="@drawable/tik" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView2"
+            android:layout_alignRight="@+id/textView2"
+            android:layout_alignTop="@+id/imageView3"
+            android:layout_marginLeft="20dp"
+            android:padding="10dp"
+            android:text="@string/rule_4"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView3"
+            android:layout_alignRight="@+id/imageView3"
+            android:layout_below="@+id/textView3"
+            android:layout_marginTop="35dp"
+            android:padding="10dp"
+            android:src="@drawable/tik" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView3"
+            android:layout_alignRight="@+id/textView3"
+            android:layout_alignTop="@+id/imageView4"
+            android:layout_marginLeft="20dp"
+            android:padding="10dp"
+            android:text="@string/rule_collaboration_1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView4"
+            android:layout_alignRight="@+id/imageView4"
+            android:layout_below="@+id/textView4"
+            android:layout_marginTop="35dp"
+            android:padding="10dp"
+            android:src="@drawable/tik" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView4"
+            android:layout_alignLeft="@+id/textView4"
+            android:layout_alignRight="@+id/textView4"
+            android:layout_alignStart="@+id/textView4"
+            android:layout_alignTop="@+id/imageView5"
+            android:layout_marginLeft="20dp"
+            android:padding="10dp"
+            android:text="@string/rule_5"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </RelativeLayout>
+
+</ScrollView>

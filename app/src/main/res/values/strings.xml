@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">شریفیار</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="my_course">درس های من</string>
+    <string name="student_name">نام</string>
+    <string name="student_family">نام خانوادگی</string>
+    <string name="student_email">ایمیل</string>
+    <string name="student_phone">تلفن همراه</string>
+    <string name="about_instructor">درباره ی استاد</string>
+
+    <string name="about_us_text">
+        جمعی از دانشجویان برتر دانشگاه صنعتی شریف
+    </string>
+    <string name="course_review_text">لیست دروس ارایه شده توسط اساتید</string>
+    <string name="instructor_name">نام استاد</string>
+    <string name="instructor_honor">افتخارات علمی</string>
+    <string name="instructor_teaching_background">سابقه ی تدریس</string>
+    <string name="course_name">نام درس</string>
+    <string name="course_description">توضیحات درس</string>
+
+        <string name="duplicate_data">
+        این اطلاعات قبلا در سرور ذخیره شده!
+    </string>
+
+    <string name="invalid_data">
+        اطلاعاتو درست وارد کن خو!
+    </string>
+
+    <string name="rotation">
+        نچرخون نمیشه! :)
+    </string>
+
+    <string name="rotation_accept">
+        عه شد که :))
+    </string>
+
+    <string name="fill_completely">
+        کامل پر کن :|
+    </string>
+
+    <string name="no_internet">
+        نت نداری که :(
+    </string>
+
+    <string name="troll">من هیچی :| خودت دستت درد نگرفت؟ :)</string>
+
+    <string name="success">درخواست شما ثبت شد. به زودی با شما تماس گرفته خواهد شد.</string>
+
+    <string name="no_course_enrolled">هنوز تو هیچ درسی ثبت نام نکردی :(</string>
+
+    <string name="zamani">سروش زمانی</string>
+    <string name="jalali">امیرعباس جلالی</string>
+    <string name="faraji">آیدین فرجی</string>
+    <string name="rezai">نرگس رضایی</string>
+    <string name="taheri">جاوید طاهری</string>
+    <string name="naiji">علیرضا ناییجی</string>
+    <string name="karimipour">نیما کریمی پور</string>
+    <string name="atashi">علیرضا آتشی</string>
+    <string name="barooni">علی بارونی</string>
+
+    <string name="zamani_honor">رتبه 70 کنکور، دانشجوی مهندسی نرم افزار دانشگاه صنعتی شریف</string>
+    <string name="jalali_honor">رتبه 13 کنکور، دانشجوی مهندسی نرم افزار دانشگاه صنعتی شریف</string>
+    <string name="faraji_honor">رتبه 115 کنکور، دانشجوی مهندسی سخت افزار دانشگاه صنعتی شریف</string>
+    <string name="rezai_honor">رتبه اول جشنواره ی جوان خوارزمی، دانشجوی مهندسی آی تی دانشگاه صنعتی شریف</string>
+    <string name="taheri_honor">رتبه 75 کنکور، دانشجوی مهندسی مکانیک دانشگاه صنعتی شریف</string>
+    <string name="naiji_honor">رتبه 22 کنکور، دانشجوی مهندسی نرم افزار دانشگاه صنعتی شریف</string>
+    <string name="karimipour_honor">دانشجوی مهندسی نرم افزار دانشگاه صنعتی شریف</string>
+    <string name="barooni_honor">رتبه 257 کنکور، دانشجوی مهندسی مکانیک دانشگاه تهران</string>
+    <string name="atashi_honor">رتبه 355 کنکور، دانشجوی مهندسی شیمی دانشگاه صنعتی شریف</string>
+
+    <string name="zamani_teaching_background">
+        سابقه تدریس خصوصی و آموزشگاهی، طراح اپلیکیشن \n\n  جهت تماس با ما با ایمیل زیر تماس بگیرید \n\n  szamani.sharifyar@gmail.com \n\n With special thanks to MOP
+    </string>
+    <string name="jalali_teaching_background">
+        سابقه تدریس در مدارس سلام و آموزشگاه
+    </string>
+    <string name="faraji_teaching_background">
+        دستیار استاد در درس برنامه نویسی دانشگاه شریف
+    </string>
+    <string name="rezai_teaching_background">
+        برگزاری کارسوق های ریاضی، دستیار استاد در درس برنامه نویسی؛ تدریس فقط در دانشگاه شما یا دانشگاه شریف انجام می شود.
+    </string>
+    <string name="taheri_teaching_background">
+        سابقه تدریس کنکور به مدت دو سال و تدریس دروس دانشگاهی
+    </string>
+    <string name="naiji_teaching_background">
+        سابقه تدریس به صورت خصوصی و در آموزشگاه و مدرسه
+    </string>
+    <string name="karimipour_teaching_background">
+        سابقه تدریس در مدارس برتر تهران
+    </string>
+    <string name="atashi_teaching_background">
+        سابقه تدریس در دبیرستان انرژی اتمی و تدریس خصوصی
+    </string>
+    <string name="barooni_teaching_background">
+        سابقه تدریس خصوصی و آموزشگاهی دروس کنکور و دانشگاه
+    </string>
+
+    <string name="about_us_title">درباره ی ما</string>
+    <string name="course_review_title">لیست دروس</string>
+    <string name="enroll_title">ثبت نام</string>
+    <string name="course_enrolled_title">درس های من</string>
+
+    <string name="java_zamani">جاوا - سروش زمانی</string>
+    <string name="java_swing_zamani">جاوا سویینگ - سروش زمانی</string>
+    <string name="javafx_zamani">جاوا اف ایکس - سروش زمانی</string>
+    <string name="java_rezai">جاوا - نرگس رضایی</string>
+    <string name="c_faraji">سی - آیدین فرجی</string>
+    <string name="c_rezai">سی - نرگس رضایی</string>
+    <string name="discrete_rezai">ساختمان های گسسته - نرگس رضایی</string>
+    <string name="madar_faraji">مدارهای منطقی - آیدین فرجی</string>
+    <string name="dif_jalali">دیفرانسیل - امیرعباس جلالی</string>
+    <string name="dif_taheri">دیفرانسیل - جاوید طاهری</string>
+    <string name="dif_naiji">دیفرانسیل - علیرضا ناییجی</string>
+    <string name="dif_karimipour">دیفرانسیل - نیما کریمی پور</string>
+    <string name="basic_math_jalali">ریاضی پایه - امیرعباس جلالی</string>
+    <string name="basic_math_taheri">ریاضی پایه - جاوید طاهری</string>
+    <string name="physics_jalali">فیزیک کنکور - امیرعباس جلالی</string>
+    <string name="physics_taheri">فیزیک کنکور - جاوید طاهری</string>
+    <string name="physics_naiji">فیزیک کنکور - علیرضا ناییجی</string>
+    <string name="physics_karimipour">فیزیک کنکور - نیما کریمی پور</string>
+    <string name="gen_pysics_taheri">فیزیک عمومی - جاوید طاهری</string>
+    <string name="gen_pysics_barooni">فیزیک عمومی - علی بارونی</string>
+    <string name="gen_math_taheri">ریاضی عمومی - جاوید طاهری</string>
+    <string name="gen_chemistry_taheri">شیمی عمومی - جاوید طاهری</string>
+    <string name="gen_math_barooni">ریاضی عمومی - علی بارونی</string>
+    <string name="gen_math_rezai">ریاضی عمومی یک - نرگس رضایی</string>
+    <string name="dif_equations_taheri">معادلات دیفرانسیل - جاوید طاهری</string>
+    <string name="dif_equations_barooni">معادلات دیفرانسیل - علی بارونی</string>
+    <string name="gen_geometry_taheri">هندسه پایه - جاوید طاهری</string>
+    <string name="gen_geometry_barooni">هندسه پایه - علی بارونی</string>
+    <string name="analytic_geometry_barooni">هندسه تحلیلی - علی بارونی</string>
+    <string name="analytic_geometry_taheri">هندسه تحلیلی - جاوید طاهری</string>
+    <string name="statistics_taheri">آمار - جاوید طاهری</string>
+    <string name="chemistry_taheri">شیمی - جاوید طاهری</string>
+    <string name="chemistry_atashi">شیمی - علیرضا آتشی</string>
+
+    <string name="java_des">زبان شی گرا و محبوب جاوا</string>
+    <string name="swing_des">رابط کاربری گرافیکی سویینگ</string>
+    <string name="javafx_des">رابط کاربری گرافیکی جدید و محبوب جاوا اف ایکس</string>
+    <string name="dif_des">دیفرانسیل کنکور</string>
+    <string name="physics_des">فیزیک کنکور</string>
+    <string name="gen_physics_des">فیزیک عمومی 1 و 2</string>
+    <string name="gen_math_des">ریاضی عمومی 1 و 2</string>
+    <string name="dif_equations_des">معادلات دیفرانسیل</string>
+    <string name="basic_math_des">ریاضی پایه کنکور</string>
+    <string name="gen_geometry_des">هندسه پایه کنکور</string>
+    <string name="analytic_geometry_des">هندسه تحلیلی کنکور</string>
+    <string name="c_des">زبان برنامه نویسی سی</string>
+    <string name="discrete_des">ساختمان های گسسته - ریاضیات گسسته</string>
+    <string name="statistics_des">آمار کنکور</string>
+    <string name="madar_des">مدارهای منطقی</string>
+    <string name="gen_chemistry_des">شیمی عمومی دانشگاه</string>
+    <string name="chemistry_des">شیمی کنکور</string>
+    <string name="konkur">کنکور</string>
+    <string name="university">دانشگاه</string>
+    <string name="course_category">زیرشاخه</string>
+    <string name="omoomi">عمومی</string>
+    <string name="ekhesasi">اختصاصی</string>
+    <string name="programming">برنامه نویسی</string>
+    <string name="computer">تخصصی کامپیوتر</string>
+    <string name="collaborate">همکاری با ما</string>
+    <string name="explanation">توضیحات</string>
+    <string name="collaboration_request">درخواست همکاری</string>
+    <string name="teaching_background">سابقه ی تدریس</string>
+    <string name="teaching_background_hint">به ماه</string>
+    <string name="education_state">وضعیت تحصیلی</string>
+    <string name="teacher_course_request">دروس موردنظر</string>
+    <string name="teaching_request_hint">دروس مورد نظر خود را وارد کنید</string>
+    <string name="teaching_explanation_header">لطفا قبل از ارسال اطلاعات و ثبت نام موارد زیر را به دقت مطالعه فرمایید.</string>
+    <string name="rule_enroll_1">تدریس به صورت خصوصی و یا در بعضی موارد در دانشگاه انجام می شود. هزینه تدریس پس از ثبت درخواست و به صورت توافقی تعیین می شود.</string>
+    <string name="rule_collaboration_1">
+        جهت همکاری با ما به عنوان استاد باید حتما دانشجو یا فارغ التحصیل یکی از دانشگاه های شریف، تهران و یا امیر کبیر باشید. تدریس در شریفیار به صورت خصوصی و یا در دانشگاه است.
+    </string>
+    <string name="rule_1">نام و نام خانوادگی خود را فارسی و کامل وارد نمایید.</string>
+    <string name="rule_2">ایمیل و شماره تماس معتبر وارد نمایید.</string>
+    <string name="rule_3">لطفا اطلاعات خود را درست و دقیق وارد کنید.</string>
+    <string name="rule_collaboration_3">لطفا اطلاعات خود را صحیح و صادقانه وارد نمایید.</string>
+    <string name="rule_5">حداکثر تا سه روز کاری بعد از ثبت نام با شما تماس گرفته خواهد شد.</string>
+    <string name="teachers">اساتید</string>
+    <string name="rule_4">
+        درخواست شما توسط ایمیل برای ما فرستاده می شود.
+    </string>
+    <string name="gen_uni">دروس پایه</string>
+    <string name="download_new_version">لطفا آخرین ورژن نرم افزار را دانلود کنید. لیست اساتید به روز شده است.</string>
+    <string name="low_time">وقت کمه :(</string>
+    <string name="massive_todo">چقدر درسا زیاده :((</string>
+    <string name="what_todo">چیکار کنم؟!</string>
+    <string name="developer">Developed by : Soroosh Zamani</string>
+    <string name="block">شما به دلیل نقض قوانین ما بلاک شده اید! لطفا با پشتیبانی تماس بگیرید.</string>
+    <string name="connecting">در حال اتصال...</string>
+    <string name="rule_35">
+        در صورت ثبت بیش از ده درخواست دیوایس شما توسط سرور بلاک میشود. اگر خواهان ثبت نام در بیش از ده درس متمایز هستید، هنگام حضور استاد در دهمین درس درخواست خود را مطرح کنید تا از لیست بلاک سرور خارج شوید.
+    </string>
+    <string name="more_explanation">توضیحات بیشتر</string>
+    <string name="more_explanation_hint">در صورت نیاز توضیحات بیشتر را وارد کنید</string>
+
+    <array name="courses">
+        <item>جاوا - سروش زمانی</item>
+        <item>جاوا سویینگ - سروش زمانی</item>
+        <item>جاوا اف ایکس - سروش زمانی</item>
+        <item>جاوا - نرگس رضایی</item>
+        <item>سی - آیدین فرجی</item>
+        <item>سی - نرگس رضایی</item>
+        <item>ساختمان های گسسته - نرگس رضایی</item>
+        <item>مدارهای منطقی - آیدین فرجی</item>
+        <item>فیزیک عمومی - جاوید طاهری</item>
+        <item>فیزیک عمومی - علی بارونی</item>
+        <item>ریاضی عمومی - جاوید طاهری</item>
+        <item>ریاضی عمومی - علی بارونی</item>
+        <item>ریاضی عمومی یک - نرگس رضایی</item>
+        <item>معادلات دیفرانسیل - جاوید طاهری</item>
+        <item>معادلات دیفرانسیل - علی بارونی</item>
+        <item>شیمی عمومی - جاوید طاهری</item>
+        <item>دیفرانسیل - امیرعباس جلالی</item>
+        <item>دیفرانسیل - جاوید طاهری</item>
+        <item>دیفرانسیل - علیرضا ناییجی</item>
+        <item>دیفرانسیل - نیما کریمی پور</item>
+        <item>فیزیک کنکور - امیرعباس جلالی</item>
+        <item>فیزیک کنکور - جاوید طاهری</item>
+        <item>فیزیک کنکور - علیرضا ناییجی</item>
+        <item>فیزیک کنکور - نیما کریمی پور</item>
+        <item>ریاضی پایه - امیرعباس جلالی</item>
+        <item>ریاضی پایه - جاوید طاهری</item>
+        <item>هندسه پایه - جاوید طاهری</item>
+        <item>هندسه پایه - علی بارونی</item>
+        <item>هندسه تحلیلی - جاوید طاهری</item>
+        <item>هندسه تحلیلی - علی بارونی</item>
+        <item>آمار - جاوید طاهری</item>
+        <item>شیمی - جاوید طاهری</item>
+        <item>شیمی - علیرضا آتشی</item>
+    </array>
+
+    <array name="education_state">
+        <item>دانشجوی کارشناسی</item>
+        <item>فارغ التحصیل کارشناسی</item>
+        <item>دانشجوی کارشناسی ارشد</item>
+        <item>فارغ التحصیل کارشناسی ارشد</item>
+    </array>
+
+    <array name="university">
+        <item>دانشگاه صنعتی شریف</item>
+        <item>دانشگاه تهران</item>
+        <item>دانشگاه صنعتی امیرکبیر</item>
+    </array>
+</resources>

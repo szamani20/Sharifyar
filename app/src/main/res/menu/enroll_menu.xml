@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".EnrollActivity">
+
+    <item
+        android:id="@+id/my_course"
+        android:title="@string/my_course"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>

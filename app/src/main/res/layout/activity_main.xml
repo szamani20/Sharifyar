@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/mainbackground"
+            tools:context=".MainActivity">
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="23dp"
+                android:src="@drawable/kolah" />
+
+            <com.andexert.library.RippleView
+                android:id="@+id/imViewAboutUs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView6"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/imViewAboutUss"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/aboutus_icon" />
+            </com.andexert.library.RippleView>
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/imViewAboutUs"
+                android:layout_alignRight="@+id/imViewAboutUs"
+                android:layout_alignTop="@+id/imViewAboutUs"
+                android:layout_marginEnd="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/aboutus" />
+
+            <com.andexert.library.RippleView
+                android:id="@+id/imViewCourseList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imViewAboutUs"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/imViewCourseListt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/list_icon" />
+
+            </com.andexert.library.RippleView>
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/imageView8"
+                android:layout_alignRight="@+id/imageView8"
+                android:layout_alignTop="@+id/imViewCourseList"
+                android:layout_marginTop="27dp"
+                android:src="@drawable/list" />
+
+
+            <com.andexert.library.RippleView
+                android:id="@+id/imViewEnroll"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imViewCourseList"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/imViewEnrolll"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/register_icon" />
+            </com.andexert.library.RippleView>
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/imageView10"
+                android:layout_alignRight="@+id/imageView10"
+                android:layout_alignTop="@+id/imViewEnroll"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/register" />
+
+            <com.andexert.library.RippleView
+                android:id="@+id/imViewCollaborate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imViewEnroll"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp">
+
+                <ImageView
+                    android:id="@+id/imViewCollaboratee"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/collaborate_icon" />
+            </com.andexert.library.RippleView>
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/imageView8"
+                android:layout_alignRight="@+id/imageView8"
+                android:layout_alignTop="@+id/imViewCollaborate"
+                android:layout_marginTop="15dp"
+                android:src="@drawable/collaborate" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</LinearLayout>
